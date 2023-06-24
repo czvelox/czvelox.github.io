@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[1171],{8207:e=>{e.exports=JSON.parse('{"label":"facebook","permalink":"/evogram/blog/tags/facebook","allTagsPath":"/evogram/blog/tags","count":1}')}}]);
